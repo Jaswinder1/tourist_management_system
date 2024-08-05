@@ -1,0 +1,58 @@
+C:\Users\jaswi\source\repos\Project11\Project11\bin\Debug\net8.0-windows\Project11.exe
+C:\Users\jaswi\source\repos\Project11\Project11\bin\Debug\net8.0-windows\Project11.deps.json
+C:\Users\jaswi\source\repos\Project11\Project11\bin\Debug\net8.0-windows\Project11.runtimeconfig.json
+C:\Users\jaswi\source\repos\Project11\Project11\bin\Debug\net8.0-windows\Project11.dll
+C:\Users\jaswi\source\repos\Project11\Project11\bin\Debug\net8.0-windows\Project11.pdb
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.Form1.resources
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.Login.resources
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.csproj.GenerateResource.cache
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.AssemblyInfoInputs.cache
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.AssemblyInfo.cs
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.csproj.CoreCompileInputs.cache
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.dll
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\refint\Project11.dll
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.pdb
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\Project11.genruntimeconfig.cache
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\ref\Project11.dll
+C:\Users\jaswi\source\repos\Project11\Project11\obj\Debug\net8.0-windows\project.Products.AddProducts.resources
+C:\Users\teesh\Desktop\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.exe
+C:\Users\teesh\Desktop\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.deps.json
+C:\Users\teesh\Desktop\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.runtimeconfig.json
+C:\Users\teesh\Desktop\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.dll
+C:\Users\teesh\Desktop\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.pdb
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.Login.resources
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\project.Products.AddProducts.resources
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.csproj.GenerateResource.cache
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.AssemblyInfoInputs.cache
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.AssemblyInfo.cs
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.csproj.CoreCompileInputs.cache
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.dll
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\refint\Project11.dll
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.pdb
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.genruntimeconfig.cache
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\ref\Project11.dll
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.RegisterForm.resources
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.AdminForm.resources
+C:\Users\teesh\Desktop\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.UserProfileForm.resources
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.AdminForm.resources
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.Login.resources
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\project.Products.AddProducts.resources
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.RegisterForm.resources
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.UserProfileForm.resources
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.csproj.GenerateResource.cache
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.GeneratedMSBuildEditorConfig.editorconfig
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.AssemblyInfoInputs.cache
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.AssemblyInfo.cs
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.csproj.CoreCompileInputs.cache
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.dll
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\refint\Project11.dll
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.pdb
+F:\its\ds project\ds project\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.exe
+F:\its\ds project\ds project\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.deps.json
+F:\its\ds project\ds project\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.runtimeconfig.json
+F:\its\ds project\ds project\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.dll
+F:\its\ds project\ds project\Project11\Project11\Project11\bin\Debug\net8.0-windows\Project11.pdb
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\Project11.genruntimeconfig.cache
+F:\its\ds project\ds project\Project11\Project11\Project11\obj\Debug\net8.0-windows\ref\Project11.dll
